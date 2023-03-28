@@ -4,3 +4,5 @@ Here  ref is used to capture the input values from the form fields. When the for
 Similarly, in the Comp1 component, ref is used to get the values of the input fields when the form is submitted.
 
 By using ref, we can access and modify the input field values programmatically, outside of the normal React data flow.
+
+To Run The file use syntax: "npm start" In VS Studio
